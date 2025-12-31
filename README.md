@@ -6,13 +6,13 @@
 
 ## 🔗 Live Demo
 
-[View Live Project](https://your-live-project-link.com)
+https://magenta-llama-38703a.netlify.app/
 
 ---
 
 ## 🖼️ Screenshot
 
-![A‑Store Screenshot](./screenshot.png)  
+![A‑Store Screenshot](https://i.ibb.co.com/B2mqMhVf/image.png)  
 *Clean and modern UI showcasing the main page of the application.*
 
 ---
