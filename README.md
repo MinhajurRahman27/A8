@@ -1,6 +1,6 @@
 # 🛍️ A‑Store
 
-**A‑Store** is a modern, responsive e-commerce web application built with **React** and **Tailwind CSS**. It provides a clean and intuitive interface for browsing products, viewing details, and managing a digital store.
+**A‑Store** is a modern, responsive app store application built with **React** and **Tailwind CSS**. It provides a clean and intuitive interface for browsing app, viewing details.
 
 ---
 
@@ -30,8 +30,8 @@ https://magenta-llama-38703a.netlify.app/
 ## ✨ Core Features
 
 - Modern and responsive user interface
-- Browse products by category
-- View detailed product pages
+- Browse app
+- View detailed app
 - Mobile-friendly layout
 - Easy to extend with backend functionality
 
@@ -44,8 +44,8 @@ https://magenta-llama-38703a.netlify.app/
 - react-router-dom
 - tailwindcss
 - daisyui
-- vite
-- axios (optional if using API calls)
+
+
 
 ---
 
